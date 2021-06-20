@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoWidgetApp</string>
+    <string name="set_new_note">Set new note...</string>
+</resources>
